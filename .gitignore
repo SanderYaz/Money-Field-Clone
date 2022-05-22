@@ -9,7 +9,10 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
+/[Rr]ecordings/
+/[Uu]ser[Ss]ettings/
 
+*.DS_Store
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
@@ -58,3 +61,12 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+UserSettings/EditorUserSettings.asset
+UserSettings/Layouts/CurrentMaximizeLayout.dwlt
+UserSettings/Layouts/default-2021.dwlt
+UserSettings/Search.settings
+UserSettings/EditorUserSettings.asset
+UserSettings/Layouts/default-2021.dwlt
+ProjectSettings/RiderScriptEditorPersistedState.asset
+.idea/.idea.runner-stacker/.idea/projectSettingsUpdater.xml
+.idea/.idea.runner-stacker/.idea/workspace.xml
